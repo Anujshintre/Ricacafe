@@ -1,0 +1,119 @@
+
+#hero{
+    color: azure;
+    height: 100vh;
+    background-image:url(/images/background/restaurant-bg.png) ;
+    background-position: 100% 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    
+}
+#hero #of{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+#of .h6{
+    font-family: "Pacifico", cursive;
+}
+#of .display-1{
+    font-family: "Exo 2", sans-serif;
+}
+#third{
+    /* height: 100%; */
+    width: 100%;
+    color:white;
+    background-image:url(/images/background/background.png) ;
+    background-position: 100% 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#or{
+    height: 100%;
+    width: 100%;
+    color:white;
+    background-image:url(/images/background/bg-2.png) ;
+    background-position: 100% 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.da{
+    position: absolute;
+    top: 40%;
+    right: 30%;
+   
+}
+#brw{
+    position: absolute;
+    top: 80%;
+ }
+ #o_20{
+  position: absolute;
+  top: 10%;
+  left: 5%;
+ }
+ #o_21{
+  position: absolute;
+  top: 10%;
+  left: 20%;
+ }
+ #ic{
+  position: absolute;
+  top: 10%;
+  right: 10%;
+ }
+ #dis{
+    height: 40vh;
+    color: white;
+    background-image: url(images/background/bg-3.png);
+    background-position: 100% 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+ }
+ #book{
+    height: 70vh;
+    background-image: url(/images/background/background.png);
+    background-position: 100% 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+ }
+ #book_1{
+    height: 100%;
+ }
+ #footer{
+    background-color: rgb(38, 38, 38);
+    color: azure;
+ }
+ /* #sh{
+    margin-left: 60px;
+    color: gray;
+    font-size: 70px;
+    text-shadow: 6px 6px 6px rgba(0, 0, 0, 0.3);
+ }
+ #mn_1{
+    position: relative;
+    font-size: 30px;
+    color: black;
+    margin-top: 15px;
+    margin-left: 93px;
+ } */
+ #ab{
+    margin-top: -10%;
+ } 
+.bd{
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+ .c_1{
+    margin: 4px;
+    padding: 2px;
+   
+   
+ }
+ .c_1:hover{
+    box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+   
+ }
+ #foot2{
+    background-color: rgb(62, 62, 62);
+ }
